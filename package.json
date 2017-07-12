@@ -1,0 +1,19 @@
+{
+  "name": "testpublishtonpm",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "jquery.multiselect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirZaets/mage-jquery-multiselect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirZaets/mage-jquery-multiselect/issues"
+  },
+  "homepage": "https://github.com/VladimirZaets/mage-jquery-multiselect#readme"
+}
